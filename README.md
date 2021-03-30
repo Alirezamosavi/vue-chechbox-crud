@@ -1,4 +1,9 @@
 
+Delete data by checkbox in Laravel + vue
+
+Video link
+https://youtu.be/4iI2txUZJ6M
+
 for checkbox of delete we need a object (selected: []) + (selectAll: false) for varriable all checked
 
 
